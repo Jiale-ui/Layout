@@ -1,0 +1,34 @@
+img {
+    display: flex;
+    flex-direction: column;
+}
+.to {
+    text-align: center;
+    margin: 50px auto;
+    background-color: #808080;
+    color: black;
+    padding: 100px;
+    width: 70%;
+    font-size: 1.5em;
+}
+.logo {
+    font-size: 24px;
+}
+.logo2 {
+    font-size: 24px;
+}
+.ti {
+    text-align: center;
+    color: white;
+}
+cabezera {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+body {
+    background-color: rgb(6, 6, 70);
+}
+h3 {
+    color: white;
+}
